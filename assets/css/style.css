@@ -34,7 +34,7 @@ theme.
 	-webkit-box-sizing:border-box;
 	        box-sizing:border-box;
 }
-
+.hs{color:white;}
 .fullscreen-video-wrap {
     position: absolute;
     top: 0;
@@ -672,6 +672,7 @@ footer.main-footer nav.footer-nav ul li a{
 	.portfolio .categories-grid .categories ul li a{
 		margin-left: 0;
 	}
+	.hs{color:black;}
 }
 .portfolio_item{
 	position: relative;
